@@ -1,4 +1,4 @@
-# Hi, I'm Derek liu 👋
+# Hi, I'm Derek Liu 👋
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a strong focus on **Frontend Development**. I specialize in modern JavaScript frameworks and libraries, and I’m also proficient in backend technologies.
 
